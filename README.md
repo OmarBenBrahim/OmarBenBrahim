@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Ben Brahim</h1>
 <h3 align="center"> Full Stack Developer </h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFocmE1dGpiMXk1bGl1OHQ2empydXQxaDQxMGdtMzQ1OHAzbjVobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2hBbAIhhilG7HZQFWK/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnMDgxcHM3a3ppYzBxb3MzejU1c2d0Y2hvMjNrZGwweGs5cXluciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbenbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="omarbenbrahim" /> </p>
 
