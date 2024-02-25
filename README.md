@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ben Brahim</h1>
-<h3 align="center">A passionate Full Stack Developer from Tunisia</h3>
+<h3 align="center"> Full Stack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDU0dTgybXo0YmxnOXR5aXcxbnF4djhjMGxodjltM2x1cHBlZHIyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbenbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="omarbenbrahim" /> </p>
