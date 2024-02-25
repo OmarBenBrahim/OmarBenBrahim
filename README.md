@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Kidcare](https://kidcare-app.com/)
 
-- 🌱 I’m currently learning **React Native and Nextjs**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, Astro, TypeScript,Tailwind**
+- 💬 Ask me about **React, Astro, TypeScript, Tailwind**
 
 - 📫 How to reach me **benbrahimomar7@gmail.com**
 
