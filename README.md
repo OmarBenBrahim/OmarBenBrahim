@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Ben Brahim</h1>
 <h3 align="center">A passionate Full Stack Developer from Tunisia</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWh0NDg1MGN6cnJlam52NzJ5eGhxcGo0YzhzOGwzcTltdGk3OXhoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbenbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="omarbenbrahim" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native and Nextjs**
 
-- 💬 Ask me about **React, Astro, TypeScript, Tailwind**
+- 💬 Ask me about **React, Astro, TypeScript,Tailwind**
 
 - 📫 How to reach me **benbrahimomar7@gmail.com**
 
