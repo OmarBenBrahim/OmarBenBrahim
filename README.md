@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbenbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="omarbenbrahim" /> </p>
 
-- 🔭 I’m currently working on [Kidcare](https://kidcare-app.com/)
+- 🔭 I’m currently working on [AI Automation & Agents](https://omar-ben-brahim.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **N8N**
 
-- 💬 Ask me about **React, Astro, TypeScript, Tailwind**
+- 💬 Ask me about **N8N, NextJS, React, Astro, TypeScript, Tailwind**
 
 - 📫 How to reach me **benbrahimomar7@gmail.com**
 
