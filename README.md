@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbenbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="omarbenbrahim" /> </p>
 
-- 🔭 I’m currently working on **AI automation and intelligent agents** → [omar-ben-brahim.vercel.app](https://omar-ben-brahim.vercel.app/)
+- 🔭 I’m currently working on **AI automation and intelligent agents**
 
 - 🌱 I’m currently learning **N8N**
 
 - 💬 Ask me about **N8N, NextJS, React, Astro, TypeScript, Tailwind**
+
+- 🌐 Portfolio: [omar-ben-brahim.vercel.app](https://omar-ben-brahim.vercel.app/)
 
 - 📫 How to reach me **benbrahimomar7@gmail.com**
 
