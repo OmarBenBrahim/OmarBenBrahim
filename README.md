@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarbenbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="omarbenbrahim" /> </p>
 
-- 🔭 I’m currently working on [AI Automation & Agents](https://omar-ben-brahim.vercel.app/)
+- 🔭 I’m currently working on **AI automation and intelligent agents** → [omar-ben-brahim.vercel.app](https://omar-ben-brahim.vercel.app/)
 
 - 🌱 I’m currently learning **N8N**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **benbrahimomar7@gmail.com**
 
-- ⚡ Fun fact **you will never see your code perfect because there is always room to make it better**
+- ⚡ Fun fact **JavaScript was created in just 10 days**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
